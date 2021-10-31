@@ -161,3 +161,10 @@ header, .navbar{
   font-size: 26px;
   margin-top: 20px;
 }
+
+/*cards---------------------------------------*/
+.card-body{
+  text-align: center;
+  white-space: nowrap;
+  border-bottom: 1px solid black;
+}
